@@ -18,7 +18,7 @@ end
 
 
 def long_planeteer_calls(planeteer_calls) # code an argument here
-    planeteer_calls.any? { |call| call.
+    planeteer_calls.any? { |call| call.length > 4}
   # Your code here
 end
 
