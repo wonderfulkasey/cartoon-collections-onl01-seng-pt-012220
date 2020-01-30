@@ -1,6 +1,7 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(dwarves) # code an argument here
   # Your code here
   dwarves = ["Doc","Dopey","Bashful","Grumpy", "Sneezy", "Sleepy", "Happy"]
+  roll_call_dwarves.each_with_index
   puts 
 end
 
