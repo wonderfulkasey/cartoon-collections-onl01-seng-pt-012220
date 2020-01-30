@@ -18,7 +18,7 @@ end
 
 
 def long_planeteer_calls(planeteer_calls) # code an argument here
-    planeteer_calls.any? 
+    planeteer_calls.any? { |call| call.
   # Your code here
 end
 
